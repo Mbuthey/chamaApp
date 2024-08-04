@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519881573465",
+    "project_id": "application-chama",
+    "storage_bucket": "application-chama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519881573465:android:1cc6a22d7a7a6969d59d48",
+        "android_client_info": {
+          "package_name": "chama.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7mUGNJBwhPe7eYVNLdmDfRvYqUvQ-MYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
